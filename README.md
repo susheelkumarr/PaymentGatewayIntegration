@@ -1,7 +1,7 @@
 # Payment Gateway Integration
-#Payment_Gateway_Integration #Task2 #TheSparkFoundation
+#Payment_Gateway_Integration #Task3 #TheSparkFoundation #GRIPSEPTEMBER22
 
-This is Task 2 " Payment Gateway Integration " of The Spark Foundation under their #GRIPMAY21 Program
+This is Task 3 " Payment Gateway Integration " of The Spark Foundation under their #GRIPSEPTEMBER22 Program build by Susheel Kumar R
 
 Payment Gateway Integration for Donating specific amount of Money directly to the Needed One.or payment gateway integration, Razorpay is used.
 
@@ -19,15 +19,13 @@ Backend :
 
 Website :
 
-https://donatepayment-gateway-integration.000webhostapp.com/
+https://pages.razorpay.com/pl_KHLhqlg2sU5I9C/view
 
 Youtube :
-https://youtu.be/RTxlJa2rFyo
+https://youtu.be/X752wEDWHyw
 
-![image](/assets/img/Home.png)
-![image](/assets/img/Donate.png)
-![image](/assets/img/paid.png)
-![image](/assets/img/mail.png)
+![image](/img/Home.png)
+![image](/img/Donate.png)
 
 
 
