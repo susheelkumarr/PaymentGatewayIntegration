@@ -25,7 +25,6 @@ Youtube :
 https://youtu.be/X752wEDWHyw
 
 ![image](/Home.png)
-![image](/Donate.png)
 
 
 
