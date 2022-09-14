@@ -24,8 +24,8 @@ https://pages.razorpay.com/pl_KHLhqlg2sU5I9C/view
 Youtube :
 https://youtu.be/X752wEDWHyw
 
-![image](/img/Home.png)
-![image](/img/Donate.png)
+![image](/Home.png)
+![image](/Donate.png)
 
 
 
